@@ -1,0 +1,11 @@
+---
+services:
+
+  cron:
+    image: local/cron:1.0
+    container_name: cron
+    environment:
+      - TZ=America/Toronto
+    volumes:
+      - ./scripts:/mnt/scripts
+    restart: unless-stopped
