@@ -1,4 +1,4 @@
-# Debian Docker Container with cron
+# Debian Docker Image with cron
 A flexible and versatile docker container for scheduling tasks using cron.
 ***
 ## Build Prerequisites:  
