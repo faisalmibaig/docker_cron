@@ -2,7 +2,7 @@
 A flexible and versatile docker container for scheduling tasks using cron.
 ***
 ## Build Prerequisites:  
-1. An `entrypoint.sh` file in the same directory as the `Dockerfile`
+1. The `entrypoint.sh` file in the same directory as the `Dockerfile`
 
 ## Build Instructions:  
 Obtain and modify the build files. Use the following command to build the image (change the image name and tag as you please):  
