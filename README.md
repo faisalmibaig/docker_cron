@@ -1,5 +1,5 @@
 # Debian Docker Image with cron
-A flexible and versatile docker container for scheduling tasks using cron.
+A flexible and versatile docker image for scheduling tasks using cron.
 ***
 ## Build Prerequisites:  
 1. The `entrypoint.sh` file in the same directory as the `Dockerfile`
